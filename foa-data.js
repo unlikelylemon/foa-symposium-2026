@@ -70,26 +70,15 @@ const FOA_SPEAKERS = [
     pullQuote: "In orbit, there is no margin for idealism."
   },
   {
-    id: "timo-ketonen",
-    name: "Timo Ketonen",
-    role: "CEO, Entrepreneur & Impact Investor · Blue Economy",
-    panel: "Special Address",
-    act: "I",
-    mc: false,
-    photo: "uploads/TimoK.jpg",
-    bio: "Timo Ketonen is a CEO, entrepreneur, and impact investor focused on the blue economy — sustainable, ocean-based industries with the potential to reshape global resource systems. He champions the alignment of patient family capital with the long horizon that environmental systems require.",
-    pullQuote: "The ocean will not wait for consensus."
-  },
-  {
-    id: "therese-von-blixen-finecke",
-    name: "Thérèse von Blixen-Finecke",
-    role: "Co-Founder, Catalyst Co-Labs · Board, IRC Sweden",
+    id: "philip-von-wulffen",
+    name: "Philip von Wulffen",
+    role: "Co-Founder, Family Office Alliance",
     panel: "Capital for Good: The Architecture of Impact",
     act: "II",
     mc: false,
-    photo: "uploads/Therese.jpg",
-    bio: "Thérèse von Blixen-Finecke co-founded Catalyst Co-Labs to align philanthropic and institutional capital with structural solutions to displacement and humanitarian crisis. She serves on the board of IRC Sweden and brings a systemic perspective on what it means to build infrastructure for human dignity at scale.",
-    pullQuote: "Solutions exist. The bottleneck is always will."
+    photo: "uploads/Philip.jpg",
+    bio: "Philip von Wulffen is a co-founder of the Family Office Alliance and a principal whose work sits at the intersection of impact, governance, and long-horizon capital. He opens the symposium day with welcome remarks before joining the conversation on capital architecture and purposeful deployment.",
+    pullQuote: "The question is not whether to act — it is whether you have built something that lasts."
   },
   {
     id: "joe-russo",
