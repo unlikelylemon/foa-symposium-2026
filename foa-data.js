@@ -76,7 +76,7 @@ const FOA_SPEAKERS = [
     panel: "Capital for Good: The Architecture of Impact",
     act: "II",
     mc: false,
-    photo: "uploads/Philip.jpg",
+    photo: "uploads/Philip von Wulffen.png",
     bio: "Philip von Wulffen is a co-founder of the Family Office Alliance and a principal whose work sits at the intersection of impact, governance, and long-horizon capital. He opens the symposium day with welcome remarks before joining the conversation on capital architecture and purposeful deployment.",
     pullQuote: "The question is not whether to act — it is whether you have built something that lasts."
   },
@@ -208,7 +208,7 @@ const FOA_SPEAKERS = [
     panel: "NextGen & Global Perspectives (ASEAN Panel)",
     act: "III",
     mc: false,
-    photo: null,
+    photo: "uploads/Serenella.png",
     bio: "Dr. Serenella Tolomeo is a Senior Scientist at A*STAR Singapore specializing in neuroscience and cognitive aging. She brings a research perspective on the biological dimensions of human performance, longevity, and the mechanisms through which leadership capacity is sustained — or degraded — under sustained pressure.",
     pullQuote: "The brain is not a fixed object. It is a system under continuous revision."
   },
