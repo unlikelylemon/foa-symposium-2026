@@ -225,13 +225,13 @@ const FOA_SPEAKERS = [
   },
   {
     id: "satvinder-singh",
-    name: "Satvinder Singh",
+    name: "H.E. Satvinder Singh",
     role: "Deputy Secretary-General, ASEAN Economic Community",
     panel: "NextGen & Global Perspectives (ASEAN Panel)",
     act: "III",
     mc: false,
     photo: "uploads/Satvinder.jpg",
-    bio: "Satvinder Singh is Deputy Secretary-General of the ASEAN Economic Community. He brings the institutional perspective of Southeast Asian economic integration to questions of global resilience — and to the structural realignment of capital, supply chains, and governance that is reordering the world economy around new centers of gravity.",
+    bio: "H.E. Satvinder Singh is Deputy Secretary-General of the ASEAN Economic Community. He brings the institutional perspective of Southeast Asian economic integration to questions of global resilience — and to the structural realignment of capital, supply chains, and governance that is reordering the world economy around new centers of gravity.",
     pullQuote: "Southeast Asia is not a market. It is the next chapter."
   },
   {
