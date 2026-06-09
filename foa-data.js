@@ -127,13 +127,13 @@ const FOA_SPEAKERS = [
   {
     id: "laurent-frederic-lohmann",
     name: "Laurent-Frédéric Lohmann",
-    role: "Chief of Staff & Investor, 4P Capital",
+    role: "Director, 4P Capital & Public Speaker",
     panel: "Closing: From Insight to Action · Master of Ceremony",
     act: "III",
     mc: true,
     photo: "uploads/Laurent.jpg",
-    bio: "Laurent-Frédéric Lohmann serves as Chief of Staff and Investor at 4P Capital and as Master of Ceremony for FOA Symposium 2026. He brings institutional discipline and rhetorical precision to the arc of the two days — translating conversation into consequence and ensuring that every session builds toward the symposium's larger purpose.",
-    pullQuote: "Conversation is the substance of which strategy is made."
+    bio: "Laurent-Frédéric Lohmann serves as Director and Head of Capital Formation at 4P Capital and as Master of Ceremony for FOA Symposium 2026. He brings an investor's perspective and a seasoned public speaker's presence to the arc of the two days — connecting ideas, guiding meaningful dialogue, and ensuring that every session contributes to the symposium's larger purpose.",
+    pullQuote: "Open discourse is the first of a million steps towards change for good."
   },
   {
     id: "kai-pierre-thiess",
@@ -205,7 +205,7 @@ const FOA_SPEAKERS = [
     id: "dr-serenella-tolomeo",
     name: "Dr. Serenella Tolomeo",
     role: "Senior Scientist, A*STAR Singapore · Neuroscience",
-    panel: "NextGen & Global Perspectives (ASEAN Panel)",
+    panel: "A Common Legacy: Open Trade, Safe AI",
     act: "III",
     mc: false,
     photo: "uploads/Serenella.png",
@@ -216,7 +216,7 @@ const FOA_SPEAKERS = [
     id: "harri-hursti",
     name: "Harri Hursti",
     role: "Cybersecurity Expert · Election Security Pioneer",
-    panel: "NextGen & Global Perspectives (ASEAN Panel)",
+    panel: "A Common Legacy: Open Trade, Safe AI",
     act: "III",
     mc: false,
     photo: "uploads/HarriH.jpg",
@@ -227,7 +227,7 @@ const FOA_SPEAKERS = [
     id: "satvinder-singh",
     name: "H.E. Satvinder Singh",
     role: "Deputy Secretary-General, ASEAN Economic Community",
-    panel: "NextGen & Global Perspectives (ASEAN Panel)",
+    panel: "A Common Legacy: Open Trade, Safe AI",
     act: "III",
     mc: false,
     photo: "uploads/Satvinder.jpg",
@@ -281,13 +281,13 @@ const FOA_SPEAKERS = [
   {
     id: "xavier-sarras",
     name: "Xavier Sarras",
-    role: "Founding Partner, 4P Capital · Climate Tech Investor",
+    role: "Principal, Maison S FO & Founding Partner, 4P Capital",
     panel: "Moderator — Rewriting Human Resilience: Health & Longevity",
     act: "I",
     mc: false,
     photo: "uploads/Xavier.jpg",
-    bio: "Xavier Sarras is Founding Partner of 4P Capital, investing in climate technology and the regeneration of natural systems. He approaches capital allocation as a question of civilizational responsibility — and brings a founding partner's discipline to the challenge of directing long-horizon resources toward the physical systems on which everything else depends.",
-    pullQuote: "Climate is a capital allocation problem. It is solvable."
+    bio: "Xavier Sarras invests in the technologies and ideas that advance human progress. He approaches capital allocation as a long-term responsibility across generations — bringing an entrepreneurial and investor perspective to identifying and nurturing the systems that support long-term prosperity.",
+    pullQuote: "The future is shaped by those willing to take action before it's easy."
   },
   {
     id: "chris-bruce",
@@ -315,7 +315,7 @@ const FOA_SPEAKERS = [
     id: "philip-wu",
     name: "Philip Wu",
     role: "Co-Founder & Secretariat, Family Office Alliance · CEO, Grid Synergy",
-    panel: "Moderator — NextGen & Global Perspectives (ASEAN Panel)",
+    panel: "Moderator — A Common Legacy: Open Trade, Safe AI",
     act: "III",
     mc: false,
     photo: "uploads/PhilipW.jpg",
